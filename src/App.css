@@ -1,0 +1,20 @@
+.container
+{
+    padding: 0 1 rem;
+
+}
+
+.btn{
+    display: inline;
+    border:none;
+    background: #555555;
+    color:white;
+    padding:7px 20px;
+    cursor: pointer;
+
+}
+
+.btn:hover
+{
+    background: #666666;
+}
